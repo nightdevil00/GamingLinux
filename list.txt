@@ -84,3 +84,4 @@ ttf-liberation
 wine-cachyos-opt
 winetricks
 vulkan-tools
+protonplus
